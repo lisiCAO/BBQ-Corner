@@ -1,5 +1,5 @@
 This is a simple html &amp; CSS website for BBQ Corner restaurant.
-[BBQ-Corner]-（https://lisicao.github.io/BBQ-Corner/）
+[BBQ-Corner]-（https://lisicao.github.io/BBQ-Corner/)
 
 # BBQ Corner Website Enhancement
 
