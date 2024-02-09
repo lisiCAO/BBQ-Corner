@@ -45,5 +45,9 @@ Contributors are welcome to help with website design, content creation, and code
 
 ## Contact
 For any queries regarding this project, please contact [Project Manager's Email].
+<img width="1323" alt="BBQ-menu-detail" src="https://github.com/lisiCAO/BBQ-Corner/assets/137085653/a314ce31-abac-466e-aa29-1f5d42b3c66f">
+<img width="1323" alt="BBQ-about-us" src="https://github.com/lisiCAO/BBQ-Corner/assets/137085653/cbc84a2d-7d08-4b55-a093-b1baf20c9e2b"><img width="1323" alt="BBQ-menu" src="https://github.com/lisiCAO/BBQ-Corner/assets/137085653/40501f72-2cc9-4c68-8caa-27a96ed5c77e">
+<img width="1323" alt="BBQ-home" src="https://github.com/lisiCAO/BBQ-Corner/assets/137085653/95d0e941-2130-4e8d-91f5-2918d841e243">
+
 
 
